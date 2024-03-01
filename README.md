@@ -19,13 +19,6 @@ This Jupyter notebook provides a comprehensive analysis of IMDb data, uncovering
 - Seaborn
 - Scikit-learn
 
-## Installation
-Clone this repository and install the required packages:
-
-```bash
-git clone https://github.com/your-username/IMDB_ANALYSIS.git
-cd IMDB_ANALYSIS
-pip install -r requirements.txt
 
 
 ## Tools and Libraries Used
